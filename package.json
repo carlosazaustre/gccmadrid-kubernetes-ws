@@ -1,0 +1,24 @@
+{
+  "name": "gccmadrid-carlosazaustre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosazaustre/gccmadrid-kubernetes-ws.git"
+  },
+  "author": "Carlos Azaustre <cazaustre@gmail.com> (https://carlosazaustre.es)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosazaustre/gccmadrid-kubernetes-ws/issues"
+  },
+  "homepage": "https://github.com/carlosazaustre/gccmadrid-kubernetes-ws#readme",
+  "dependencies": {
+    "esm": "^3.2.18",
+    "express": "^4.16.4"
+  }
+}

@@ -1,0 +1,4 @@
+docker build -t madrid .
+docker run -it -p 9000:9000 madrid
+http :9000
+
